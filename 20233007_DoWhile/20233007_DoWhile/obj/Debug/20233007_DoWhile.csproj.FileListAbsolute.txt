@@ -1,0 +1,8 @@
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\bin\Debug\20233007_DoWhile.exe.config
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\bin\Debug\20233007_DoWhile.exe
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\bin\Debug\20233007_DoWhile.pdb
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\obj\Debug\20233007_DoWhile.csproj.AssemblyReference.cache
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\obj\Debug\20233007_DoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\obj\Debug\20233007_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\obj\Debug\20233007_DoWhile.exe
+C:\Users\smart.konuk\source\repos\20233007_DoWhile\20233007_DoWhile\obj\Debug\20233007_DoWhile.pdb
